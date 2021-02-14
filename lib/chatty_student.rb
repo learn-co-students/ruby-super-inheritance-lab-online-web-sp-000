@@ -11,4 +11,8 @@ class ChattyStudent < Student
       super
     end
   end
+  def test
+    puts 123
+  end 
+  
 end
