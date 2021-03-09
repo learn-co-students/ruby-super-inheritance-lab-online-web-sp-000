@@ -3,11 +3,11 @@ require 'pry'
 class Student
   
   
-  def hello(message)
-    puts "Hey there!  I'm so excited to learn stuff."
+  def hello
+    puts "Hey there! I'm so excited to learn stuff."
   end 
   
-  def raise_hand(phrase)
+  def raise_hand
     puts "Pick me!"
   end  
 end 
